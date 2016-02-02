@@ -657,7 +657,7 @@ h2 {
 **************************/
 
 .contact-section {
-  background-color: #f7ab24;
+   background-color: #f7ab24;
   background-image: url("../images/contact-bg.jpg");
   background-position:60% 0;
   background-size:contain;
@@ -672,7 +672,7 @@ h2 {
 }
 
 #contact .container {
-  padding-top:47px;
+  padding-top:87px;
 }
 
 #contact h3 {
