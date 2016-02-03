@@ -591,10 +591,15 @@ h2 {
   position: relative;
 }
 
+#sponsor a{
+	color: #B6D1E8;
+}
+
 .light {
   position: absolute;
   right: 0;
   bottom: 0;
+  z-index:100;
 }
 
 #sponsor .col-sm-10 {
